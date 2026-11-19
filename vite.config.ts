@@ -4,7 +4,7 @@ import { defineConfig } from "vite";
 import Vue from "@vitejs/plugin-vue";
 
 export default defineConfig({
-  base: "/tuemplate/",
+  base: "/uevshaid/",
   plugins: [Vue()],
   resolve: {
     alias: { "@": fileURLToPath(new URL("./src", import.meta.url)) }
