@@ -35,29 +35,29 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@byloth/core": "^2.2.9",
+    "@byloth/core": "^2.2.10",
     "@byloth/exceptions": "^2.3.1",
     "@byloth/vuert": "^1.4.5",
-    "@fortawesome/fontawesome-free": "^7.3.0",
-    "@vueuse/core": "^14.3.0",
-    "axios": "^1.18.1",
-    "bootstrap": "^5.3.8",
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "@vueuse/core": "^14.4.0",
+    "axios": "^1.21.1",
+    "bootstrap": "^5.3.9",
     "pinia": "^3.0.4",
-    "vue": "^3.5.39",
-    "vue-router": "^5.1.0"
+    "vue": "^3.5.45",
+    "vue-router": "^5.5.1"
   },
   "devDependencies": {
     "@byloth/eslint-config-nuxt": "^4.0.2",
-    "@eslint/compat": "^2.1.0",
-    "@types/node": "^24.13.2",
-    "@vitejs/plugin-vue": "^6.0.7",
-    "eslint": "^10.6.0",
+    "@eslint/compat": "^2.1.1",
+    "@types/node": "^24.19.2",
+    "@vitejs/plugin-vue": "^6.0.11",
+    "eslint": "^10.15.0",
     "husky": "^9.1.7",
-    "sass": "^1.101.0",
+    "sass": "^1.108.2",
     "typescript": "^6.0.3",
-    "vite": "^8.1.3",
-    "vitest": "^4.1.10",
-    "vue-tsc": "^3.3.6"
+    "vite": "^8.3.8",
+    "vitest": "^4.1.12",
+    "vue-tsc": "^3.3.14"
   },
   "private": true
 }
