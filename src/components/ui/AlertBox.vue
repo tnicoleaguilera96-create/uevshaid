@@ -42,7 +42,7 @@
         <span v-else-if="icon"
               class="fa-solid"
               :class="`fa-${icon}`"></span>
-        <slot></slot>
+        <slot />
         <button v-if="dismissible"
                 class="btn btn-close"
                 type="button"

@@ -72,7 +72,7 @@
                    name="btn"
                    :class="classes"
                    v-bind="properties">
-        <slot></slot>
+        <slot />
     </ThemedElement>
 </template>
 

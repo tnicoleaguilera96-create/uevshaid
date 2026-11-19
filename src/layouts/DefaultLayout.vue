@@ -7,7 +7,7 @@
     <div class="default-layout">
         <NavigationBar />
         <div class="content">
-            <slot></slot>
+            <slot />
         </div>
         <HiddenFooter />
     </div>

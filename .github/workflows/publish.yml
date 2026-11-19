@@ -1,8 +1,9 @@
 name: Publish on GitHub Pages
 on:
   workflow_dispatch:
-  release:
-    types: [published]
+  push:
+    branches:
+      - master
 
 concurrency:
   group: pages

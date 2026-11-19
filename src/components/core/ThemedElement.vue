@@ -31,7 +31,7 @@
 
 <template>
     <Component :is="is" :class="classes">
-        <slot></slot>
+        <slot />
     </Component>
 </template>
 
